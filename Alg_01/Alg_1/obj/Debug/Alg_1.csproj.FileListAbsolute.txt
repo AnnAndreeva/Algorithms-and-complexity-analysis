@@ -1,0 +1,7 @@
+C:\Users\Professional\Desktop\Учёба\3 семестр лабы\Алгоритмы и анализ сложности\Alg_1\Alg_1\bin\Debug\Alg_1.exe.config
+C:\Users\Professional\Desktop\Учёба\3 семестр лабы\Алгоритмы и анализ сложности\Alg_1\Alg_1\bin\Debug\Alg_1.exe
+C:\Users\Professional\Desktop\Учёба\3 семестр лабы\Алгоритмы и анализ сложности\Alg_1\Alg_1\bin\Debug\Alg_1.pdb
+C:\Users\Professional\Desktop\Учёба\3 семестр лабы\Алгоритмы и анализ сложности\Alg_1\Alg_1\obj\Debug\Alg_1.csprojAssemblyReference.cache
+C:\Users\Professional\Desktop\Учёба\3 семестр лабы\Алгоритмы и анализ сложности\Alg_1\Alg_1\obj\Debug\Alg_1.csproj.CoreCompileInputs.cache
+C:\Users\Professional\Desktop\Учёба\3 семестр лабы\Алгоритмы и анализ сложности\Alg_1\Alg_1\obj\Debug\Alg_1.exe
+C:\Users\Professional\Desktop\Учёба\3 семестр лабы\Алгоритмы и анализ сложности\Alg_1\Alg_1\obj\Debug\Alg_1.pdb
