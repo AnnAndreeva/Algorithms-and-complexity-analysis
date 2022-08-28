@@ -1,0 +1,14 @@
+C:\Users\Professional\Desktop\Учёба\3 семестр лабы\Алгоритмы и анализ сложности\Alg_04\Alg_04\bin\Debug\Alg_04.exe.config
+C:\Users\Professional\Desktop\Учёба\3 семестр лабы\Алгоритмы и анализ сложности\Alg_04\Alg_04\bin\Debug\Alg_04.exe
+C:\Users\Professional\Desktop\Учёба\3 семестр лабы\Алгоритмы и анализ сложности\Alg_04\Alg_04\bin\Debug\Alg_04.pdb
+C:\Users\Professional\Desktop\Учёба\3 семестр лабы\Алгоритмы и анализ сложности\Alg_04\Alg_04\obj\Debug\Alg_04.csprojAssemblyReference.cache
+C:\Users\Professional\Desktop\Учёба\3 семестр лабы\Алгоритмы и анализ сложности\Alg_04\Alg_04\obj\Debug\Alg_04.csproj.CoreCompileInputs.cache
+C:\Users\Professional\Desktop\Учёба\3 семестр лабы\Алгоритмы и анализ сложности\Alg_04\Alg_04\obj\Debug\Alg_04.exe
+C:\Users\Professional\Desktop\Учёба\3 семестр лабы\Алгоритмы и анализ сложности\Alg_04\Alg_04\obj\Debug\Alg_04.pdb
+C:\Users\Professional\Desktop\Учёба\3 семестр\Алгоритмы и анализ сложности\Alg_04\Alg_04\obj\Debug\Alg_04.csprojAssemblyReference.cache
+C:\Users\Professional\Desktop\Учёба\3 семестр\Алгоритмы и анализ сложности\Alg_04\Alg_04\obj\Debug\Alg_04.csproj.CoreCompileInputs.cache
+C:\Users\Professional\Desktop\Учёба\3 семестр\Алгоритмы и анализ сложности\Alg_04\Alg_04\obj\Debug\Alg_04.exe
+C:\Users\Professional\Desktop\Учёба\3 семестр\Алгоритмы и анализ сложности\Alg_04\Alg_04\obj\Debug\Alg_04.pdb
+C:\Users\Professional\Desktop\Учёба\3 семестр\Алгоритмы и анализ сложности\Alg_04\Alg_04\bin\Debug\Alg_04.exe.config
+C:\Users\Professional\Desktop\Учёба\3 семестр\Алгоритмы и анализ сложности\Alg_04\Alg_04\bin\Debug\Alg_04.exe
+C:\Users\Professional\Desktop\Учёба\3 семестр\Алгоритмы и анализ сложности\Alg_04\Alg_04\bin\Debug\Alg_04.pdb
